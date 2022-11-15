@@ -18,4 +18,3 @@
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
 echo 'src-git app https://github.com/kenzok8/small' >>feeds.conf.default
 echo 'src-git app1 https://github.com/kenzok8/small-package' >>feeds.conf.default
-echo 'src-git xepher https://github.com/jerrykuku/luci-app-ttnode.git'>>feeds.conf.default
